@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="35px" viewBox="0 0 9 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形备份</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="毕业季单个样式备份" transform="translate(-242.000000, -97.000000)" fill="#FFFFFF">
+            <rect x="0" y="0" width="375" height="3201"></rect>
+            <path d="M248.266525,95.5 L241.393355,113.005353 L248.250649,129.5 L127.5,129.5 L127.5,95.5 L248.266525,95.5 Z" id="矩形备份-2" stroke="#343433"></path>
+            <g id="矩形备份-92" transform="translate(129.000000, 97.000000)" stroke="#343433">
+                <path d="M121.266525,0.5 L114.393355,18.005353 L121.250649,34.5 L0.5,34.5 L0.5,0.5 L121.266525,0.5 Z" id="矩形备份"></path>
+            </g>
+        </g>
+    </g>
+</svg>
